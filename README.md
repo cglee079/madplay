@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Madplay!](https://madplay.github.io) 👋
+
+![madplay's github stats](https://github-readme-stats.vercel.app/api?username=madplay&show_icons=true&include_all_commits=true&theme=dracula)
 
 <!--
 **madplay/madplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
